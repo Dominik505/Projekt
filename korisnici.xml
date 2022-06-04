@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user_list>
+<korisnik>
+	<korisnicko_ime>korisnik1</korisnicko_ime>
+	<lozinka>00000</lozinka>
+	<ime>Đuro</ime>
+    <prezime>Đapić</prezime>
+	
+</korisnik>
+<korisnik>
+	<korisnicko_ime>korisnik2</korisnicko_ime>
+	<lozinka>11111</lozinka>
+	<ime>Krunoslav</ime>
+    <prezime>Krunik</prezime>
+</korisnik>
+</user_list>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="kolekcija_igara.xsl"?>
+
+
+<Timovi>
+	<Tim>
+		<Ime_tima>RED BULL</Ime_tima>
+		<Vozac>
+			<pos>1</pos>
+			<driver>Max Verstappen</driver>
+			<nationality>NED</nationality>
+			<car>RED BULL RACING</car>
+			<pts>125</pts>
+		</Vozac>
+		<Vozac>
+			<pos>3</pos>
+			<driver>Sergio Perez</driver>
+			<nationality>MEX</nationality>
+			<car>RED BULL RACING</car>
+			<pts>110</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>FERRARI</Ime_tima>
+		<Vozac>
+			<pos>2</pos>
+			<driver>Charles Leclerc</driver>
+			<nationality>MON</nationality>
+			<car>FERRARI</car>
+			<pts>116</pts>
+		</Vozac>
+		<Vozac>
+			<pos>5</pos>
+			<driver>Carlos Sainz</driver>
+			<nationality>ESP</nationality>
+			<car>FERRARI</car>
+			<pts>83</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>MERCEDES</Ime_tima>
+		<Vozac>
+			<pos>4</pos>
+			<driver>George Russell</driver>
+			<nationality>GBR</nationality>
+			<car>MERCEDES</car>
+			<pts>84</pts>
+		</Vozac>
+		<Vozac>
+			<pos>6</pos>
+			<driver>Lewis Hamilton</driver>
+			<nationality>GBR</nationality>
+			<car>MERCEDES</car>
+			<pts>50</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>MCLAREN MERCEDES</Ime_tima>
+		<Vozac>
+			<pos>7</pos>
+			<driver>Lando Norris</driver>
+			<nationality>GBR</nationality>
+			<car>MCLAREN MERCEDES</car>
+			<pts>48</pts>
+		</Vozac>
+		<Vozac>
+			<pos>11</pos>
+			<driver>Daniel Ricciardo</driver>
+			<nationality>AUS</nationality>
+			<car>MCLAREN MERCEDES</car>
+			<pts>11</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>ALFA ROMEO</Ime_tima>
+		<Vozac>
+			<pos>8</pos>
+			<driver>Valtreri Bottas</driver>
+			<nationality>FIN</nationality>
+			<car>ALFA ROMEO FERRARI</car>
+			<pts>40</pts>
+		</Vozac>
+		<Vozac>
+			<pos>18</pos>
+			<driver>Zhou Guanyu</driver>
+			<nationality>CHN</nationality>
+			<car>ALFA ROMEO FERRARI</car>
+			<pts>1</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>ALPINE RENAULT</Ime_tima>
+		<Vozac>
+			<pos>13</pos>
+			<driver>Fernando Alonso</driver>
+			<nationality>ESP</nationality>
+			<car>ALPINE RENAULT</car>
+			<pts>10</pts>
+		</Vozac>
+		<Vozac>
+			<pos>9</pos>
+			<driver>Esteban Ocon</driver>
+			<nationality>FRA</nationality>
+			<car>ALPINE RENAULT</car>
+			<pts>30</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>HAAS FERRARI</Ime_tima>
+		<Vozac>
+			<pos>10</pos>
+			<driver>Kevin Magnussen</driver>
+			<nationality>DEN</nationality>
+			<car>HAAS FERRARI</car>
+			<pts>15</pts>
+		</Vozac>
+		<Vozac>
+			<pos>19</pos>
+			<driver>Mick Schumacher</driver>
+			<nationality>GER</nationality>
+			<car>HAAS FERRARI</car>
+			<pts>0</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>ALPHATAURI</Ime_tima>
+		<Vozac>
+			<pos>12</pos>
+			<driver>Yuki Tsunoda</driver>
+			<nationality>JPN</nationality>
+			<car>ALPHATAURI</car>
+			<pts>11</pts>
+		</Vozac>
+		<Vozac>
+			<pos>14</pos>
+			<driver>Pierre Gasly</driver>
+			<nationality>FRA</nationality>
+			<car>ALPHATAURI</car>
+			<pts>6</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>ASTON MARTIN ARAMCO MERCEDES</Ime_tima>
+		<Vozac>
+			<pos>15</pos>
+			<driver>Sebastian Vettel</driver>
+			<nationality>GER</nationality>
+			<car>ASTON MARTIN ARAMCO MERCEDES</car>
+			<pts>5</pts>
+		</Vozac>
+		<Vozac>
+			<pos>17</pos>
+			<driver>Lance Stroll</driver>
+			<nationality>CAN</nationality>
+			<car>ASTON MARTIN ARAMCO MERCEDES</car>
+			<pts>2</pts>
+		</Vozac>
+	</Tim>
+	<Tim>
+		<Ime_tima>WILLIAMS</Ime_tima>
+		<Vozac>
+			<pos>16</pos>
+			<driver>Alexandar Albon</driver>
+			<nationality>THA</nationality>
+			<car>WILLIAMS MERCEDES</car>
+			<pts>3</pts>
+		</Vozac>
+		<Vozac>
+			<pos>20</pos>
+			<driver>Nicholas Latifi</driver>
+			<nationality>CAN</nationality>
+			<car>WILLIAMS MERCEDES</car>
+			<pts>0</pts>
+		</Vozac>
+	</Tim>
+</Timovi>
